@@ -1,0 +1,7 @@
+C:\Users\Zehra\source\repos\cDers_7\cDers_7\obj\Debug\cDers_7.csproj.AssemblyReference.cache
+C:\Users\Zehra\source\repos\cDers_7\cDers_7\obj\Debug\cDers_7.csproj.CoreCompileInputs.cache
+C:\Users\Zehra\source\repos\cDers_7\cDers_7\bin\Debug\cDers_7.exe.config
+C:\Users\Zehra\source\repos\cDers_7\cDers_7\bin\Debug\cDers_7.exe
+C:\Users\Zehra\source\repos\cDers_7\cDers_7\bin\Debug\cDers_7.pdb
+C:\Users\Zehra\source\repos\cDers_7\cDers_7\obj\Debug\cDers_7.exe
+C:\Users\Zehra\source\repos\cDers_7\cDers_7\obj\Debug\cDers_7.pdb
