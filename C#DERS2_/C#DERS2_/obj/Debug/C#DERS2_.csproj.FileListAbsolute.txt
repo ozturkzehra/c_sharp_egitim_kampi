@@ -1,0 +1,7 @@
+C:\Users\Zehra\source\repos\C#DERS2_\C#DERS2_\bin\Debug\C#DERS2_.exe.config
+C:\Users\Zehra\source\repos\C#DERS2_\C#DERS2_\bin\Debug\C#DERS2_.exe
+C:\Users\Zehra\source\repos\C#DERS2_\C#DERS2_\bin\Debug\C#DERS2_.pdb
+C:\Users\Zehra\source\repos\C#DERS2_\C#DERS2_\obj\Debug\C#DERS2_.csproj.AssemblyReference.cache
+C:\Users\Zehra\source\repos\C#DERS2_\C#DERS2_\obj\Debug\C#DERS2_.csproj.CoreCompileInputs.cache
+C:\Users\Zehra\source\repos\C#DERS2_\C#DERS2_\obj\Debug\C#DERS2_.exe
+C:\Users\Zehra\source\repos\C#DERS2_\C#DERS2_\obj\Debug\C#DERS2_.pdb

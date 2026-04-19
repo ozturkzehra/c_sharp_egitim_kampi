@@ -1,0 +1,7 @@
+C:\Users\Zehra\source\repos\C#DERS_3\C#DERS_3\bin\Debug\C#DERS_3.exe.config
+C:\Users\Zehra\source\repos\C#DERS_3\C#DERS_3\bin\Debug\C#DERS_3.exe
+C:\Users\Zehra\source\repos\C#DERS_3\C#DERS_3\bin\Debug\C#DERS_3.pdb
+C:\Users\Zehra\source\repos\C#DERS_3\C#DERS_3\obj\Debug\C#DERS_3.csproj.AssemblyReference.cache
+C:\Users\Zehra\source\repos\C#DERS_3\C#DERS_3\obj\Debug\C#DERS_3.csproj.CoreCompileInputs.cache
+C:\Users\Zehra\source\repos\C#DERS_3\C#DERS_3\obj\Debug\C#DERS_3.exe
+C:\Users\Zehra\source\repos\C#DERS_3\C#DERS_3\obj\Debug\C#DERS_3.pdb

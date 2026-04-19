@@ -1,0 +1,7 @@
+C:\Users\Zehra\source\repos\C# DERS_4\C# DERS_4\bin\Debug\C# DERS_4.exe.config
+C:\Users\Zehra\source\repos\C# DERS_4\C# DERS_4\bin\Debug\C# DERS_4.exe
+C:\Users\Zehra\source\repos\C# DERS_4\C# DERS_4\bin\Debug\C# DERS_4.pdb
+C:\Users\Zehra\source\repos\C# DERS_4\C# DERS_4\obj\Debug\C# DERS_4.csproj.AssemblyReference.cache
+C:\Users\Zehra\source\repos\C# DERS_4\C# DERS_4\obj\Debug\C# DERS_4.csproj.CoreCompileInputs.cache
+C:\Users\Zehra\source\repos\C# DERS_4\C# DERS_4\obj\Debug\C# DERS_4.exe
+C:\Users\Zehra\source\repos\C# DERS_4\C# DERS_4\obj\Debug\C# DERS_4.pdb

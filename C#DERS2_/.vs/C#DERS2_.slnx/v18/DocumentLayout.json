@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zehra\\source\\repos\\C#DERS2_\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B005A7B0-3F85-4396-A14A-EFB37EE32608}|C#DERS2_\\C#DERS2_.csproj|c:\\users\\zehra\\source\\repos\\c#ders2_\\c#ders2_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B005A7B0-3F85-4396-A14A-EFB37EE32608}|C#DERS2_\\C#DERS2_.csproj|solutionrelative:c#ders2_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zehra\\source\\repos\\C#DERS2_\\C#DERS2_\\Program.cs",
+              "RelativeDocumentMoniker": "C#DERS2_\\Program.cs",
+              "ToolTip": "C:\\Users\\Zehra\\source\\repos\\C#DERS2_\\C#DERS2_\\Program.cs",
+              "RelativeToolTip": "C#DERS2_\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T11:21:41.12Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

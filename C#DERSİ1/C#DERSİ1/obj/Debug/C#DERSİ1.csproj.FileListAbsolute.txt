@@ -1,0 +1,7 @@
+C:\Users\Zehra\source\repos\C#DERSİ1\C#DERSİ1\bin\Debug\C#DERSİ1.exe.config
+C:\Users\Zehra\source\repos\C#DERSİ1\C#DERSİ1\bin\Debug\C#DERSİ1.exe
+C:\Users\Zehra\source\repos\C#DERSİ1\C#DERSİ1\bin\Debug\C#DERSİ1.pdb
+C:\Users\Zehra\source\repos\C#DERSİ1\C#DERSİ1\obj\Debug\C#DERSİ1.csproj.AssemblyReference.cache
+C:\Users\Zehra\source\repos\C#DERSİ1\C#DERSİ1\obj\Debug\C#DERSİ1.csproj.CoreCompileInputs.cache
+C:\Users\Zehra\source\repos\C#DERSİ1\C#DERSİ1\obj\Debug\C#DERSİ1.exe
+C:\Users\Zehra\source\repos\C#DERSİ1\C#DERSİ1\obj\Debug\C#DERSİ1.pdb
